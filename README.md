@@ -7,4 +7,4 @@ Steps:
 4. Run ` odsc conda create -n Rname -f Renv.yaml --empty`  - This command will create a conda environment with Rnamev1_0
 6. Run `conda activate /home/datascience/conda/Rnamev1_0` - Activates the above environment
 7. Run `ipython kernel install --user --name=Rnamev1_0` -- Installs R kernel in jupyter notebook
-8. Open jupyter notebook and select ***Rnamev1_0'*** and R kernel should be available
+8. Open jupyter notebook and select ***Rnamev1_0*** and R kernel should be available
